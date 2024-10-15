@@ -1,0 +1,15 @@
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/GuessingGame.AssemblyInfoInputs.cache
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/GuessingGame.AssemblyInfo.cs
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/GuessingGame.csproj.CoreCompileInputs.cache
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/GuessingGame.sourcelink.json
+/workspaces/mod4codingchallenge/GuessingGame/bin/Debug/net8.0/GuessingGame
+/workspaces/mod4codingchallenge/GuessingGame/bin/Debug/net8.0/GuessingGame.deps.json
+/workspaces/mod4codingchallenge/GuessingGame/bin/Debug/net8.0/GuessingGame.runtimeconfig.json
+/workspaces/mod4codingchallenge/GuessingGame/bin/Debug/net8.0/GuessingGame.dll
+/workspaces/mod4codingchallenge/GuessingGame/bin/Debug/net8.0/GuessingGame.pdb
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/GuessingGame.dll
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/refint/GuessingGame.dll
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/GuessingGame.pdb
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/GuessingGame.genruntimeconfig.cache
+/workspaces/mod4codingchallenge/GuessingGame/obj/Debug/net8.0/ref/GuessingGame.dll
